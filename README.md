@@ -84,7 +84,7 @@ https://www.postman.com/dewanakl/workspace/undangan/folder/20716209-d9635b26-4e8
 - Run in development server
 
     ```bash
-    php saya coba
+    php saya cobas
     ```
 
 ## Contributing
